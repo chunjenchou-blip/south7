@@ -1,0 +1,6 @@
+{
+  "name": "東南水泥股份有限公司 官方網站",
+  "description": "東南水泥股份有限公司官方品牌網站。專注生產CNS認證一型卜特蘭水泥與高品質高爐石粉，為預拌混凝土廠與建材行提供品質卓越、供料穩定的大宗水泥採購與槽車配送服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
